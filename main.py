@@ -6,7 +6,7 @@ from openai import OpenAI
 modeloIA = OpenAI(api_key='')
 
 #Título da página
-st.write('# IA foda')
+st.write('# IA sem crédito')
 
 #Condicional para criar a lista de mensagem apenas uma vez
 #Lista para salvar as mensagens
